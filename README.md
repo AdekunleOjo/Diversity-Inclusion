@@ -11,13 +11,13 @@ The project is to analyze and derive insights about the Employees’ gender to a
 2. Identifying and discussing potential root causes for the slow progress in achieving balance at the executive management level.
 
 ##  Data Collection
-I got the data from https://www.accenture.com/gb-en/careers/local/virtual-experience-program for my internship proramme.
+I got the data from https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/03%20Diversity-Inclusion-Dataset.xlsx for my internship programme.
 
 
 ##  Skills and steps performed.
 
 The following Power BI features were incorporated:
-- Power query for data transformation , 
+- Power query for data cleaning and transformation , 
 - DAX for measures calculation, 
 - Quick measures,
 - Page navigation,
