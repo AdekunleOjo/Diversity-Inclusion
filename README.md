@@ -30,7 +30,7 @@ There are two tables. They are joined together with one-to-one relationship.
 
 ## Visualization
 The report contains 3 Pages 
-1. Gender’s Diversity Inclusion
+## 1. Gender’s Diversity Inclusion
 
 ![Diversity and Inclusion_page-0001](https://github.com/Adekunle123121/Diversity-Inclusion/assets/55541028/79da3c18-25aa-4dec-a021-8740f7b91d9a)
 
@@ -42,7 +42,18 @@ The following key insights derived from the analysis are:
 - Most workers comes from Switzerland
 - Most employees are junior workers.
 
-2. Gender Employees' Age group Analysis
+## 2. Gender Employees' Age group Analysis
+
+![Diversity and Inclusion_page-0003](https://github.com/Adekunle123121/Diversity-Inclusion/assets/55541028/63cd990c-d231-40d7-bd09-a8d23d4841b8)
+
+The following key insights are derived from the analysis:
+- Females between 20-29 age group dominate the new hires.
+- Most employees between 20-29 age group are junior officers.
+- Most employees that left the company are between 40-49 age group
+- Female employees between 50-59 age group performed the best
+
+## 3. Gender trend analysis
+
 
 
  
