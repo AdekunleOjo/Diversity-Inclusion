@@ -5,7 +5,6 @@
 This is a power BI project on Diversity & Inclusion analysis. 
 The project is to analyze and derive insights about the Employees’ gender to answer crucial questions and help the organization to make data driven decisions.
 
-**_Disclaimer_**: _The datasets and reports do not represent any company or organization, but just a dummy dataset to demonstrate potential in Power BI._
 
 ##  Problem statement 
 1. Creating visualizations to represent HR data focusing on gender-related KPIs.
@@ -53,6 +52,22 @@ The following key insights are derived from the analysis:
 - Female employees between 50-59 age group performed the best
 
 ## 3. Gender trend analysis
+
+![Diversity and Inclusion_page-0002](https://github.com/Adekunle123121/Diversity-Inclusion/assets/55541028/21ad6007-c952-4215-ab4d-ed68160d996a)
+
+The following insights are derived from the analysis are:
+- In FY20, more Male employees have Been promoted in 2015.
+- In FY21, more Male employees have been promoted in 2016.
+- A notable observation is tat no Female employee has been promoted consecutivel.
+- The average performance rating in FY20 of both gender seems to have dropped, raising potential concerns about performance management.
+- Performance rating of the employees in each department seems to the same across each year.
+
+## Recommendations
+1. Implement strategies to achieve a better gender balance in hiring practices, and ensuring equal opportunities for both gender candidates.
+2. Create measures to certify fair and equitable promotions.
+3. Implement initiatives to promote and help female employees in pursuing leadership roles.
+4. Encourage diversity by seeking expert from various regions.
+
 
 
 
