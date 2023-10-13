@@ -32,7 +32,21 @@ There are two tables. They are joined together with one-to-one relationship.
 The report contains 3 Pages 
 1. Gender’s Diversity Inclusion
 
-![](Diversity and inclusion_page-0001.jpg)
+![Diversity and Inclusion_page-0001](https://github.com/Adekunle123121/Diversity-Inclusion/assets/55541028/79da3c18-25aa-4dec-a021-8740f7b91d9a)
+
+The following key insights derived from the analysis are:
+- There are more hired employees than those leaving the company.
+- The company employed only males from Asia Pasific and only females from Middle East.
+- Most Female employees are part time workers.
+- Operation department has the largest workers
+- Most workers comes from Switzerland
+- Most employees are junior workers.
+
+2. Gender Employees' Age group Analysis
+
+
+ 
+
 
 
 
